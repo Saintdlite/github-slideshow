@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+source "https://www.facebook.com/beauty.3syua.com"
+https://www.3syua.com
 
 gem 'github-pages', '>= 207'
 gem 'html-proofer', '>= 3.13.0'
